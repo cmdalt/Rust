@@ -1,0 +1,2 @@
+## CARGO
+* cargo new projectname
